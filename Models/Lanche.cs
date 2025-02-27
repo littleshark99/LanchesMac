@@ -27,22 +27,22 @@ namespace LancheMac.Models
 
         [Required(ErrorMessage = "O Preço deve ser informado")]
         [Display(Name = "preço")]
-        [Column(TypeName = "decimal(10,2")]
+        [Column(TypeName = "decimal(10,2)")]
         [Range(1, 999.99, ErrorMessage = "O preço deve está entre 1 a 999.99")]
         public decimal Preco { get; set; }
 
-        [Display(Name ="Imagem em Minhatura")]
-        [StringLength(200,ErrorMessage = "Tamanho máximo da descrição é 200 caracteres")]
+        [Display(Name = "Imagem em Minhatura")]
+        [StringLength(200, ErrorMessage = "Tamanho máximo da descrição é 200 caracteres")]
         public string ImageUrl { get; set; }
 
         [Display(Name = "Imagem em Minhatura")]
         [StringLength(200, ErrorMessage = "Tamanho máximo da descrição é 200 caracteres")]
         public string ImagemThumbnailUrl { get; set; }
 
-        [Display(Name ="Preferido?")]
+        [Display(Name = "Preferido?")]
         public bool IsLanchePreferido { get; set; }
 
-        [Display(Name ="Estoque")]
+        [Display(Name = "Estoque")]
         public bool EmEstoque { get; set; }
 
 
