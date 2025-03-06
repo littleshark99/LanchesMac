@@ -5,12 +5,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LancheMac.Repositories
 {
-    public class LacheRepository : ILancheRepository
+    public class LancheRepository : ILancheRepository
     {
 
         private readonly AppDbContext _context;
 
-        public LacheRepository(AppDbContext contexto)
+        public LancheRepository(AppDbContext contexto)
         {
             _context = contexto;
         }
