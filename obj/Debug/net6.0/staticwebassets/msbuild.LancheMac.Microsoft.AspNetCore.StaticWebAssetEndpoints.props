@@ -76,13 +76,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LancheMac.72ngps5nmw.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"72ngps5nmw"},{"Name":"integrity","Value":"sha256-QW5QtQeIm52rQtrLCTjyR9\u002BqUx05PBXiOJe6d8tlg6M="},{"Name":"label","Value":"_content/LancheMac/LancheMac.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QW5QtQeIm52rQtrLCTjyR9\u002BqUx05PBXiOJe6d8tlg6M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 13:45:59 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QW5QtQeIm52rQtrLCTjyR9\u002BqUx05PBXiOJe6d8tlg6M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 23:49:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LancheMac/LancheMac.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\LancheMac.72ngps5nmw.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QW5QtQeIm52rQtrLCTjyR9\u002BqUx05PBXiOJe6d8tlg6M="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QW5QtQeIm52rQtrLCTjyR9\u002BqUx05PBXiOJe6d8tlg6M=\u0022"},{"Name":"Last-Modified","Value":"Wed, 26 Feb 2025 13:45:59 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022QW5QtQeIm52rQtrLCTjyR9\u002BqUx05PBXiOJe6d8tlg6M=\u0022"},{"Name":"Last-Modified","Value":"Thu, 06 Mar 2025 23:49:54 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/LancheMac/lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>
