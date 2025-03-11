@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LancheMac")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbf0ec9d221e0b39c7ce07c8ff06f88bebff029e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2f266f0b7f2e9c2858763127a48ed162d3ca72f")]
 [assembly: System.Reflection.AssemblyProductAttribute("LancheMac")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LancheMac")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
