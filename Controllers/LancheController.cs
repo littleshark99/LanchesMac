@@ -18,6 +18,7 @@ namespace LancheMac.Controllers
             ViewData["Titulo"] = "Todos os lanches.";
             ViewData["Data"] = DateTime.Now;
 
+            
 
             var lanches = _lancheRepository.Lanche;
             var totalLanches = lanches.Count();
